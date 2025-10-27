@@ -1,4 +1,4 @@
-<img src="collection.jpeg" style="height:64px;margin-right:32px"/>
+<img src="collection.jpeg" style="height:264px;margin-right:232px"/>
 
 # donne alors le document complet
 
@@ -826,3 +826,4 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+

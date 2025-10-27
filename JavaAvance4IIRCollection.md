@@ -1,5 +1,3 @@
-<img src="collection.jpeg" style="height:264px;margin-right:232px"/>
-
 # Collections en Java : Guide Complet pour Étudiants
 
 **Auteur : A. Larhlimi**
@@ -814,5 +812,6 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
